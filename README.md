@@ -53,7 +53,7 @@ php artisan filament:cache-components
 ### In a Filament Resource
 
 ```php
-use KwameBoateng\MathRichEditor\MathRichEditor;
+use Kalourmade\MathRichEditor\MathRichEditor;
 
 public static function form(Form $form): Form
 {

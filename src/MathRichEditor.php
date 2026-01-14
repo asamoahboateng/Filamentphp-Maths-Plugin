@@ -1,6 +1,6 @@
 <?php
 
-namespace KwameBoateng\MathRichEditor;
+namespace Kalourmade\MathRichEditor;
 
 use Filament\Forms\Components\Field;
 use Filament\Forms\Components\Concerns\HasPlaceholder;

@@ -1,6 +1,6 @@
 <?php
 
-namespace KwameBoateng\MathRichEditor;
+namespace Kalourmade\MathRichEditor;
 
 use Filament\Support\Assets\Css;
 use Filament\Support\Assets\Js;
