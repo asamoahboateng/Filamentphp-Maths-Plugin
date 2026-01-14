@@ -1,0 +1,37 @@
+@import 'katex/dist/katex.min.css';
+
+.math-rich-editor {
+    .tiptap {
+        &:focus {
+            outline: none;
+        }
+
+        .math-node {
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.05);
+            padding: 0.1em 0.3em;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 1px transparent;
+            
+            &:hover {
+                background: rgba(0, 0, 0, 0.1);
+            }
+
+            &.ProseMirror-selectednode {
+                outline: 2px solid #3b82f6;
+            }
+        }
+    }
+}
+
+.math-preview {
+    min-height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f9fafb;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    border: 1px solid #e5e7eb;
+}
