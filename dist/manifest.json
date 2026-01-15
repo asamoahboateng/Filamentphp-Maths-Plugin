@@ -1,242 +1,242 @@
 {
   "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf": {
-    "file": "KaTeX_AMS-Regular.ttf",
+    "file": "plugin4.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff": {
-    "file": "KaTeX_AMS-Regular.woff",
+    "file": "plugin4.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff2": {
-    "file": "KaTeX_AMS-Regular.woff2",
+    "file": "plugin.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.ttf": {
-    "file": "KaTeX_Caligraphic-Bold.ttf",
+    "file": "plugin.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff": {
-    "file": "KaTeX_Caligraphic-Bold.woff",
+    "file": "plugin.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff2": {
-    "file": "KaTeX_Caligraphic-Bold.woff2",
+    "file": "plugin2.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.ttf": {
-    "file": "KaTeX_Caligraphic-Regular.ttf",
+    "file": "plugin2.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff": {
-    "file": "KaTeX_Caligraphic-Regular.woff",
+    "file": "plugin2.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff2": {
-    "file": "KaTeX_Caligraphic-Regular.woff2",
+    "file": "plugin3.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.ttf": {
-    "file": "KaTeX_Fraktur-Bold.ttf",
+    "file": "plugin3.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff": {
-    "file": "KaTeX_Fraktur-Bold.woff",
+    "file": "plugin3.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff2": {
-    "file": "KaTeX_Fraktur-Bold.woff2",
+    "file": "plugin4.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.ttf": {
-    "file": "KaTeX_Fraktur-Regular.ttf",
+    "file": "plugin5.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff": {
-    "file": "KaTeX_Fraktur-Regular.woff",
+    "file": "plugin5.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff2": {
-    "file": "KaTeX_Fraktur-Regular.woff2",
+    "file": "plugin5.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Bold.ttf": {
-    "file": "KaTeX_Main-Bold.ttf",
+    "file": "plugin7.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Bold.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff": {
-    "file": "KaTeX_Main-Bold.woff",
+    "file": "plugin7.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff2": {
-    "file": "KaTeX_Main-Bold.woff2",
+    "file": "plugin7.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.ttf": {
-    "file": "KaTeX_Main-BoldItalic.ttf",
+    "file": "plugin6.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff": {
-    "file": "KaTeX_Main-BoldItalic.woff",
+    "file": "plugin6.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff2": {
-    "file": "KaTeX_Main-BoldItalic.woff2",
+    "file": "plugin6.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Italic.ttf": {
-    "file": "KaTeX_Main-Italic.ttf",
+    "file": "plugin9.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Italic.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff": {
-    "file": "KaTeX_Main-Italic.woff",
+    "file": "plugin8.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff2": {
-    "file": "KaTeX_Main-Italic.woff2",
+    "file": "plugin9.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Regular.ttf": {
-    "file": "KaTeX_Main-Regular.ttf",
+    "file": "plugin10.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff": {
-    "file": "KaTeX_Main-Regular.woff",
+    "file": "plugin10.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff2": {
-    "file": "KaTeX_Main-Regular.woff2",
+    "file": "plugin8.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.ttf": {
-    "file": "KaTeX_Math-BoldItalic.ttf",
+    "file": "plugin12.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff": {
-    "file": "KaTeX_Math-BoldItalic.woff",
+    "file": "plugin11.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff2": {
-    "file": "KaTeX_Math-BoldItalic.woff2",
+    "file": "plugin11.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Math-Italic.ttf": {
-    "file": "KaTeX_Math-Italic.ttf",
+    "file": "plugin8.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Math-Italic.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff": {
-    "file": "KaTeX_Math-Italic.woff",
+    "file": "plugin9.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff2": {
-    "file": "KaTeX_Math-Italic.woff2",
+    "file": "plugin10.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.ttf": {
-    "file": "KaTeX_SansSerif-Bold.ttf",
+    "file": "plugin11.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff": {
-    "file": "KaTeX_SansSerif-Bold.woff",
+    "file": "plugin12.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff2": {
-    "file": "KaTeX_SansSerif-Bold.woff2",
+    "file": "plugin12.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.ttf": {
-    "file": "KaTeX_SansSerif-Italic.ttf",
+    "file": "plugin13.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff": {
-    "file": "KaTeX_SansSerif-Italic.woff",
+    "file": "plugin13.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff2": {
-    "file": "KaTeX_SansSerif-Italic.woff2",
+    "file": "plugin13.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.ttf": {
-    "file": "KaTeX_SansSerif-Regular.ttf",
+    "file": "plugin14.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff": {
-    "file": "KaTeX_SansSerif-Regular.woff",
+    "file": "plugin14.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff2": {
-    "file": "KaTeX_SansSerif-Regular.woff2",
+    "file": "plugin14.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Script-Regular.ttf": {
-    "file": "KaTeX_Script-Regular.ttf",
+    "file": "plugin15.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Script-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff": {
-    "file": "KaTeX_Script-Regular.woff",
+    "file": "plugin15.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff2": {
-    "file": "KaTeX_Script-Regular.woff2",
+    "file": "plugin15.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.ttf": {
-    "file": "KaTeX_Size1-Regular.ttf",
+    "file": "plugin16.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff": {
-    "file": "KaTeX_Size1-Regular.woff",
+    "file": "plugin16.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff2": {
-    "file": "KaTeX_Size1-Regular.woff2",
+    "file": "plugin16.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.ttf": {
-    "file": "KaTeX_Size2-Regular.ttf",
+    "file": "plugin17.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff": {
-    "file": "KaTeX_Size2-Regular.woff",
+    "file": "plugin17.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff2": {
-    "file": "KaTeX_Size2-Regular.woff2",
+    "file": "plugin17.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.ttf": {
-    "file": "KaTeX_Size3-Regular.ttf",
+    "file": "plugin19.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff": {
-    "file": "KaTeX_Size3-Regular.woff",
+    "file": "plugin19.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff2": {
-    "file": "KaTeX_Size3-Regular.woff2",
+    "file": "plugin19.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.ttf": {
-    "file": "KaTeX_Size4-Regular.ttf",
+    "file": "plugin18.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff": {
-    "file": "KaTeX_Size4-Regular.woff",
+    "file": "plugin18.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff2": {
-    "file": "KaTeX_Size4-Regular.woff2",
+    "file": "plugin18.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.ttf": {
-    "file": "KaTeX_Typewriter-Regular.ttf",
+    "file": "plugin20.ttf",
     "src": "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.ttf"
   },
   "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff": {
-    "file": "KaTeX_Typewriter-Regular.woff",
+    "file": "plugin20.woff",
     "src": "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff"
   },
   "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2": {
-    "file": "KaTeX_Typewriter-Regular.woff2",
+    "file": "plugin20.woff2",
     "src": "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2"
   },
   "resources/css/plugin.css": {
