@@ -1,5 +1,5 @@
 {
-    "name": "kwame-boateng/filament-math-rich-editor",
+    "name": "kalourmade/math-rich-editor",
     "description": "A math rich editor for Filament using Tiptap and KaTeX.",
     "type": "library",
     "license": "MIT",
